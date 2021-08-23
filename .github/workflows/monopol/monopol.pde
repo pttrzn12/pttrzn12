@@ -3,7 +3,6 @@ Player2 p2=new Player2();
 Player3 p3=new Player3();
 Player4 p4=new Player4();
 PImage img;
-ska
 int MoneyP1=0;
 int MoneyP2=0;
 int MoneyP3=0;
